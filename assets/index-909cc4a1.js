@@ -72,7 +72,7 @@ border: 1px solid black;
     background-color: black;
     color: white;
     border: 1px solid transparent;
-}`,xm=({toggle:e})=>R.jsxs(Em,{children:[R.jsx("div",{children:R.jsx("img",{src:"/images/dices.png"})}),R.jsxs("div",{className:"content",children:[R.jsx("h1",{children:"DICE GAME"}),R.jsx(Hu,{onClick:e,children:"Play Now"})]})]}),Em=be.div`
+}`,xm=({toggle:e})=>R.jsxs(Em,{children:[R.jsx("div",{children:R.jsx("img",{src:"./images/dices.png"})}),R.jsxs("div",{className:"content",children:[R.jsx("h1",{children:"DICE GAME"}),R.jsx(Hu,{onClick:e,children:"Play Now"})]})]}),Em=be.div`
 max-width: 1180px;
 display: flex;
 margin: 0 auto;
